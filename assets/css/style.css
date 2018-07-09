@@ -155,7 +155,7 @@ form {
     .content {
         width: 80%;
         height: 100%;
-        margin: 100px 10px 10px 10px;
+        margin: 100px 10px 10px 70px;
     }
     
     h1 {
@@ -163,6 +163,9 @@ form {
     }
     ul {
         margin-right: 150px;
+    }
+    .footer {
+        margin-top: 25px;
     }
     
 }
@@ -174,22 +177,26 @@ form {
 
     .topbar {
         position: static;
+        width: 100%;
     }
 
     h1 {
         width: 100%;
-        position: relative;  
+        position: relative;
+        margin: 0px -15px 10px -50px;
+           
     }
 
     ul {
         margin-right: 75px;
-        margin-bottom: -15px;
+        margin-top: -15px;
+        
     
     }
     .content {
         width: 70%;
         height: 100%;
-        margin: 135px 10px 10px 23px;
+        margin: 175px 10px 10px 23px;
     }
     .footer {
         position: static;
